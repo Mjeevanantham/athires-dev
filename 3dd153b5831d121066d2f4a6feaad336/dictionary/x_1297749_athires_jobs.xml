@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="40eb9b35835d121066d2f4a6feaad339" label="Jobs" max_length="40" name="x_1297749_athires_jobs" type="collection">
+        <element label="Seat available" max_length="40" name="seat_available" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Position" max_length="40" name="position" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Job Title" mandatory="true" max_length="40" name="job_title" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Industries" max_length="40" name="industries" type="string"/>
+        <element label="Pay range" max_length="40" name="pay_range" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Place" max_length="40" name="place" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="full_time" label="Employment type" max_length="40" name="employment_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Internship" value="internship"/>
+                <element inactive_on_update="false" label="Contract" value="contract"/>
+                <element inactive_on_update="false" label="Full-time" value="full_time"/>
+                <element inactive_on_update="false" label="Trainee" value="trainee"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Logo" max_length="1024" name="logo" type="url"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="junior" label="Seniority level" max_length="40" name="seniority_level" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Senior" value="senior"/>
+                <element inactive_on_update="false" label="Mid-level" value="mid_level"/>
+                <element inactive_on_update="false" label="Junior" value="junior"/>
+                <element inactive_on_update="false" label="Manager" value="manager"/>
+                <element inactive_on_update="false" label="Associate" value="associate"/>
+                <element inactive_on_update="false" label="Lead" value="lead"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="100" name="description" type="string"/>
+        <element label="Experience" max_length="40" name="experience" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Posted Date" max_length="40" name="u_posted_date" read_only="true" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="available" label="Job status" max_length="40" name="job_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Hold" value="hold"/>
+                <element inactive_on_update="false" label="Not Available" value="not_available"/>
+                <element inactive_on_update="false" label="Available" value="available"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Skills" max_length="40" name="skills" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Job Responsibilities" max_length="40" name="job_responsibilities" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Nest js Developer" value="nest_js_developer"/>
+                <element inactive_on_update="false" label="Next js Developer" value="next_js_developer"/>
+                <element inactive_on_update="false" label="Tech Support" value="tech_support"/>
+                <element inactive_on_update="false" label="HR assistant" value="hr_assistant"/>
+                <element inactive_on_update="false" label="Business Analyst" value="business_analyst"/>
+                <element inactive_on_update="false" label="Software Tester" value="software_tester"/>
+                <element inactive_on_update="false" label="UI/UX Designer" value="ui_ux_designer"/>
+                <element inactive_on_update="false" label="Automation Tester" value="automation_tester"/>
+                <element inactive_on_update="false" label="Devops" value="devops"/>
+                <element inactive_on_update="false" label="HRP" value="hrp"/>
+                <element inactive_on_update="false" label="Solution Architect" value="solution_architect"/>
+                <element inactive_on_update="false" label="Frontend Developer" value="frontend_developer"/>
+                <element inactive_on_update="false" label="API Tester" value="api_tester"/>
+                <element inactive_on_update="false" label="Java Developer" value="java_developer"/>
+                <element inactive_on_update="false" label="Backend Developer" value="backend_developer"/>
+                <element inactive_on_update="false" label="Others" value="others"/>
+                <element inactive_on_update="false" label="Project Manager" value="project_manager"/>
+            </choice>
+        </element>
+    </element>
+</database>
