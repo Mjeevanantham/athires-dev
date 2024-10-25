@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher">
+    <sys_sg_applet_launcher action="INSERT_OR_UPDATE">
+        <access_control_type>user_roles</access_control_type>
+        <active>true</active>
+        <available_offline>true</available_offline>
+        <header_button/>
+        <header_titles/>
+        <hide_empty_sections>true</hide_empty_sections>
+        <name>athires</name>
+        <required_roles>x_1297749_athires.job_applicant,x_1297749_athires.recruiter,x_1297749_athires.admin,x_1297749_athires.job_create,x_1297749_athires.job_update,x_1297749_athires.job_read,x_1297749_athires.job_delete</required_roles>
+        <search_config/>
+        <sys_class_name>sys_sg_applet_launcher</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-18 07:12:59</sys_created_on>
+        <sys_id>bc5623f1839d121066d2f4a6feaad36e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>athires</sys_name>
+        <sys_package display_value="athires" source="x_1297749_athires">3dd153b5831d121066d2f4a6feaad336</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="athires">3dd153b5831d121066d2f4a6feaad336</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_bc5623f1839d121066d2f4a6feaad36e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-18 07:12:59</sys_updated_on>
+        <title>athires</title>
+    </sys_sg_applet_launcher>
+</record_update>

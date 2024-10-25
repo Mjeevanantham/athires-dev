@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="57a523b1839d121066d2f4a6feaad399" label="Applicant" max_length="40" name="x_1297749_athires_applicant" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Profile" max_length="1024" name="profile" type="file_attachment"/>
+        <element default="true" label="Status" max_length="40" name="status" read_only="true" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Passed Out Year" max_length="40" name="u_glide_date_5" type="glide_date"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="edge_encryption_enabled=true" label="Skills" mandatory="true" max_length="40" name="skills" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Mail ID" mandatory="true" max_length="40" name="mail_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="experienced" label="Experience Type" mandatory="true" max_length="40" name="experience_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Freasher" value="freasher"/>
+                <element inactive_on_update="false" label="Experienced" value="experienced"/>
+            </choice>
+        </element>
+        <element label="Contact No" mandatory="true" max_length="40" name="contact_no" type="phone_number_e164"/>
+        <element label="Work Experience" mandatory="true" max_length="40" name="work_experience" type="integer"/>
+        <element label="Applicant Age" mandatory="true" max_length="40" name="applicant_age" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Role" mandatory="true" max_length="40" name="role" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Applicant Name" mandatory="true" max_length="40" name="applicant_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Profile Photo" max_length="40" name="profile_photo" type="file_attachment"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Degree" mandatory="true" max_length="40" name="degree" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Diploma" value="diploma"/>
+                <element inactive_on_update="false" label="UG" value="ug"/>
+                <element inactive_on_update="false" label="PG" value="pg"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="New Calendar Date/Time" max_length="40" name="u_calendar_date_time_4" type="calendar_date_time"/>
+        <element label="Profile Photo" max_length="100" name="u_icon_2" type="icon"/>
+        <element label="Resume" mandatory="true" max_length="40" name="u_file_attachment_3" type="file_attachment"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>An advanced Job Applying app by aaludra technology solutions Pvt Limited</description>
+        <device_type>browser</device_type>
+        <hint>An advanced Job Applying app by aaludra technology solutions Pvt Limited</hint>
+        <name/>
+        <order/>
+        <roles>x_1297749_athires.job_applicant,x_1297749_athires.recruiter,x_1297749_athires.admin,x_1297749_athires.job_create,x_1297749_athires.job_update,x_1297749_athires.job_read,x_1297749_athires.job_delete</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-18 07:13:30</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5476eb3d835d121066d2f4a6feaad359</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>athires</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="athires" source="x_1297749_athires">3dd153b5831d121066d2f4a6feaad336</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="athires">3dd153b5831d121066d2f4a6feaad336</sys_scope>
+        <sys_update_name>sys_app_application_5476eb3d835d121066d2f4a6feaad359</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-18 07:13:30</sys_updated_on>
+        <title>athires</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

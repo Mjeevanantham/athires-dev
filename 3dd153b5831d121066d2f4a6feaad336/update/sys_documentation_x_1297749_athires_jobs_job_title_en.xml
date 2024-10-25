@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="job_title" label="Job Title" language="en" table="x_1297749_athires_jobs">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>job_title</element>
+            <help/>
+            <hint/>
+            <label>Job Title</label>
+            <language>en</language>
+            <name>x_1297749_athires_jobs</name>
+            <plural>Job Titles</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-18 06:27:22</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Job Title</sys_name>
+            <sys_package display_value="athires" source="x_1297749_athires">3dd153b5831d121066d2f4a6feaad336</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="athires">3dd153b5831d121066d2f4a6feaad336</sys_scope>
+            <sys_update_name>sys_documentation_x_1297749_athires_jobs_job_title_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-18 06:27:22</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

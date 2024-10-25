@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="job_responsibilities" table="x_1297749_athires_jobs" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>job_responsibilities</element>
+            <name>x_1297749_athires_jobs</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-18 06:27:25</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>job_responsibilities</sys_name>
+            <sys_package display_value="athires" source="x_1297749_athires">3dd153b5831d121066d2f4a6feaad336</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="athires">3dd153b5831d121066d2f4a6feaad336</sys_scope>
+            <sys_update_name>sys_choice_x_1297749_athires_jobs_job_responsibilities</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-18 06:27:25</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>job_responsibilities</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>API Tester</label>
+            <language>en</language>
+            <name>x_1297749_athires_jobs</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-18 06:27:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-18 06:27:25</sys_updated_on>
+            <value>api_tester</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>job_responsibilities</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Automation Tester</label>
+            <language>en</language>
+            <name>x_1297749_athires_jobs</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-18 06:27:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-18 06:27:25</sys_updated_on>
+            <value>automation_tester</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>job_responsibilities</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Backend Developer</label>
+            <language>en</language>
+            <name>x_1297749_athires_jobs</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-18 06:27:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-18 06:27:25</sys_updated_on>
+            <value>backend_developer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>job_responsibilities</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Business Analyst</label>
+            <language>en</language>
+            <name>x_1297749_athires_jobs</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-18 06:27:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-18 06:27:25</sys_updated_on>
+            <value>business_analyst</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>job_responsibilities</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Devops</label>
+            <language>en</language>
+            <name>x_1297749_athires_jobs</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-18 06:27:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-18 06:27:25</sys_updated_on>
+            <value>devops</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>job_responsibilities</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Frontend Developer</label>
+            <language>en</language>
+            <name>x_1297749_athires_jobs</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-18 06:27:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-18 06:27:25</sys_updated_on>
+            <value>frontend_developer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>job_responsibilities</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>HRP</label>
+            <language>en</language>
+            <name>x_1297749_athires_jobs</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-18 06:27:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-18 06:27:25</sys_updated_on>
+            <value>hrp</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>job_responsibilities</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>HR assistant</label>
+            <language>en</language>
+            <name>x_1297749_athires_jobs</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-18 06:27:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-18 06:27:25</sys_updated_on>
+            <value>hr_assistant</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>job_responsibilities</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Java Developer</label>
+            <language>en</language>
+            <name>x_1297749_athires_jobs</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-18 06:27:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-18 06:27:25</sys_updated_on>
+            <value>java_developer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>job_responsibilities</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Nest js Developer</label>
+            <language>en</language>
+            <name>x_1297749_athires_jobs</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-18 06:27:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-18 06:27:25</sys_updated_on>
+            <value>nest_js_developer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>job_responsibilities</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Next js Developer</label>
+            <language>en</language>
+            <name>x_1297749_athires_jobs</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-18 06:27:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-18 06:27:25</sys_updated_on>
+            <value>next_js_developer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>job_responsibilities</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Others</label>
+            <language>en</language>
+            <name>x_1297749_athires_jobs</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-18 06:27:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-18 06:27:25</sys_updated_on>
+            <value>others</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>job_responsibilities</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Project Manager</label>
+            <language>en</language>
+            <name>x_1297749_athires_jobs</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-18 06:27:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-18 06:27:25</sys_updated_on>
+            <value>project_manager</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>job_responsibilities</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Software Tester</label>
+            <language>en</language>
+            <name>x_1297749_athires_jobs</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-18 06:27:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-18 06:27:25</sys_updated_on>
+            <value>software_tester</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>job_responsibilities</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Solution Architect</label>
+            <language>en</language>
+            <name>x_1297749_athires_jobs</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-18 06:27:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-18 06:27:25</sys_updated_on>
+            <value>solution_architect</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>job_responsibilities</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Tech Support</label>
+            <language>en</language>
+            <name>x_1297749_athires_jobs</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-18 06:27:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-18 06:27:25</sys_updated_on>
+            <value>tech_support</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>job_responsibilities</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>UI/UX Designer</label>
+            <language>en</language>
+            <name>x_1297749_athires_jobs</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-18 06:27:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-18 06:27:25</sys_updated_on>
+            <value>ui_ux_designer</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
